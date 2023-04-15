@@ -1,2 +1,2 @@
 #!/bin/bash
-lS -mpav
+ls -mpav
